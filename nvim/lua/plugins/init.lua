@@ -7,4 +7,5 @@ require("lazy").setup({
   require("plugins.lazygit"),
   require("plugins.gitsigns"),
   require("plugins.indent-blankline"),
+  require("plugins.nvim-autopairs"),
 })
