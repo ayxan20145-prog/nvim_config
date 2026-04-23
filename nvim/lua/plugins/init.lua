@@ -1,0 +1,10 @@
+require("lazy").setup({
+  require("plugins.colorscheme"),
+  require("plugins.cmp"),
+  require("plugins.lsp"),
+  require("plugins.nvim-tree"),
+  require("plugins.presence"),
+  require("plugins.lazygit"),
+  require("plugins.gitsigns"),
+  require("plugins.indent-blankline"),
+})
