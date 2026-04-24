@@ -8,4 +8,5 @@ require("lazy").setup({
   require("plugins.gitsigns"),
   require("plugins.indent-blankline"),
   require("plugins.nvim-autopairs"),
+  require("plugins.telescope"),
 })
