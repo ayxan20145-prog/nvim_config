@@ -10,4 +10,6 @@ require("lazy").setup({
   require("plugins.nvim-autopairs"),
   require("plugins.telescope"),
   require("plugins.lualine"),
+  require("plugins.which-key"),
+  require("plugins.marks"),
 })
