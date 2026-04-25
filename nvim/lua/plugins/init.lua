@@ -9,4 +9,5 @@ require("lazy").setup({
   require("plugins.indent-blankline"),
   require("plugins.nvim-autopairs"),
   require("plugins.telescope"),
+  require("plugins.lualine"),
 })
