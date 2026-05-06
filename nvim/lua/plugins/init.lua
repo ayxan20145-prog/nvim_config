@@ -14,4 +14,5 @@ require("lazy").setup({
   require("plugins.marks"),
   require("plugins.alpha-nvim"),
   require("plugins.nvim-notify"),
+  require("plugins.bufferline"),
 })
